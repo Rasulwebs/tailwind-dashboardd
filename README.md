@@ -1,6 +1,6 @@
 
 
-[Admin Dashboard Template](https://www.tailwindtoolbox.com/templates/admin-template) is an open source, admin dashboard template for [Tailwind CSS](https://tailwindcss.com/) created by Rasulwebs
+Admin Dashboard is an open source, admin dashboard template for [Tailwind CSS](https://tailwindcss.com/) created by Rasulwebs
 
 
 ## Using the Template
